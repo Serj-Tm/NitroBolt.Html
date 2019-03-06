@@ -5,6 +5,8 @@
     <PackageProjectUrl>https://github.com/Serj-Tm/NitroBolt.Html</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>2.0.1</Version>
+    <Authors>Serj-Tm</Authors>
+    <Company>NitroBolt</Company>
   </PropertyGroup>
 
 </Project>
